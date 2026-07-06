@@ -2,6 +2,10 @@
 title: >-
   İstanbul Kağıthane Bölgesinde Garantili Hamam Böceği İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Kağıthane bölgesinde profesyonel dezenfeksiyon ve hamam böceği
+  ilaçlama hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli
+  uzman kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Kağıthane Hamam Böceği İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
