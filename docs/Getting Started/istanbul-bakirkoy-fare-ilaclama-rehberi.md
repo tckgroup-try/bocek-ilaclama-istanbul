@@ -1,6 +1,16 @@
 ---
 title: İstanbul Bakırköy Bölgesinde Garantili Fare İlaçlama Hizmetleri Nasıl Yapılır?
 icon: 😀
+metadata:
+  title: İstanbul Bakırköy Fare İlaçlama | %100 Garantili TCK İlaçlama
+  description: >-
+    İstanbul Bakırköy bölgesinde profesyonel dezenfeksiyon ve fare ilaçlama
+    hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+    kadroyla 7/24 hizmetinizdeyiz.
+  keywords:
+    - Bakırköy fare ilaclama
+    - Bakırköy dezenfeksiyon
+    - en yakin fare ilaclama firmasi
 ---
 ![Bakırköy İlaçlama Hizmetleri](https://www.tckilaclama.com/images/tck_fare_uzman.png)
 
