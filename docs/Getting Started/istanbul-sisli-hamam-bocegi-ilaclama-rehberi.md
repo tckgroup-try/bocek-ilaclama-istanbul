@@ -2,6 +2,16 @@
 title: >-
   İstanbul Şişli Bölgesinde Garantili Hamam Böceği İlaçlama Hizmetleri Nasıl
   Yapılır?
+metadata:
+  title: İstanbul Şişli Hamam Böceği İlaçlama | %100 Garantili TCK İlaçlama
+  description: >-
+    İstanbul Şişli bölgesinde profesyonel dezenfeksiyon ve hamam böceği ilaçlama
+    hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+    kadroyla 7/24 hizmetinizdeyiz.
+  keywords:
+    - Şişli hamam böceği ilaclama
+    - Şişli dezenfeksiyon
+    - en yakin hamam böceği ilaclama firmasi
 ---
 ![Şişli İlaçlama Hizmetleri](https://www.tckilaclama.com/images/sisli-fare-ilaclama-tck-ilaclama.png)
 
