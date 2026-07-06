@@ -1,17 +1,17 @@
 ---
 title: İstanbul Bakırköy Kartaltepe Mahallesi Garantili Hamam Böceği İlaçlama
 excerpt: >-
-  İstanbul Bakırköy ilçesi KARTALTEPE-HAMAM mahallesi garantili bocegi ilaçlama
+  İstanbul Bakırköy ilçesi KARTALTEPE mahallesi garantili hamam böceği ilaçlama
   ve dezenfeksiyon hizmeti. Sağlık Bakanlığı onaylı 7/24 hizmet.
 metadata:
-  title: Bakırköy KARTALTEPE-HAMAM Mahallesi BOCEGI İlaçlama | TCK İlaçlama
+  title: Bakırköy KARTALTEPE Mahallesi Hamam Böceği İlaçlama | TCK İlaçlama
   description: >-
-    İstanbul Bakırköy ilçesi KARTALTEPE-HAMAM mahallesi garantili bocegi
+    İstanbul Bakırköy ilçesi KARTALTEPE mahallesi garantili hamam böceği
     ilaçlama ve dezenfeksiyon hizmeti. Sağlık Bakanlığı onaylı 7/24 hizmet.
   keywords:
-    - Bakırköy kartaltepe-hamam ilaclama
-    - kartaltepe-hamam dezenfeksiyon
-    - en yakin bocegi ilaclama firmasi
+    - Bakırköy kartaltepe ilaclama
+    - kartaltepe dezenfeksiyon
+    - en yakin hamam böceği ilaclama firmasi
 ---
 Bakırköy ilçesinin seçkin bölgelerinden biri olan **Kartaltepe Mahallesi** genelinde, profesyonel [Hamam Böceği ilaçlama](https://www.tckilaclama.com/hizmet/istanbul-bakirkoy-bocek-ilaclama) ve dezenfeksiyon çözümleri sunuyoruz. Yaşam alanlarınızı tehdit eden haşerelere karşı Sağlık Bakanlığı onaylı ve çevre dostu ürünlerle 7/24 yanınızdayız.
 
