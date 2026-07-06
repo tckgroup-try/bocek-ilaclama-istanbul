@@ -1,5 +1,9 @@
 ---
 title: İstanbul Beyoğlu Bölgesinde Garantili Böcek İlaçlama Hizmetleri Nasıl Yapılır?
+excerpt: >-
+  İstanbul Beyoğlu bölgesinde profesyonel dezenfeksiyon ve böcek ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Beyoğlu Böcek İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
