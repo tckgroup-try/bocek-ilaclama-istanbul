@@ -2,6 +2,10 @@
 title: >-
   İstanbul Küçükçekmece Bölgesinde Garantili Akrep İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Küçükçekmece bölgesinde profesyonel dezenfeksiyon ve akrep ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Küçükçekmece Akrep İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
