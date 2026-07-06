@@ -2,6 +2,10 @@
 title: >-
   İstanbul Ümraniye Bölgesinde Garantili Akrep İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Ümraniye bölgesinde profesyonel dezenfeksiyon ve akrep ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Ümraniye Akrep İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
