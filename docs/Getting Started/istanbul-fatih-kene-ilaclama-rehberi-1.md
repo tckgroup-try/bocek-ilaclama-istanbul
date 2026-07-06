@@ -4,6 +4,7 @@ excerpt: >-
   İstanbul Fatih bölgesinde profesyonel dezenfeksiyon ve kene ilaçlama hizmeti.
   Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman kadroyla 7/24
   hizmetinizdeyiz.
+icon: 🕷️
 metadata:
   title: İstanbul Fatih Kene İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
