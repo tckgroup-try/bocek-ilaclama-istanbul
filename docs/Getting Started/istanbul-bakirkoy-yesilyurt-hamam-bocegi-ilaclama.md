@@ -1,17 +1,17 @@
 ---
 title: İstanbul Bakırköy Yeşilyurt Mahallesi Garantili Hamam Böceği İlaçlama
 excerpt: >-
-  İstanbul Bakırköy ilçesi YESILYURT-HAMAM mahallesi garantili bocegi ilaçlama
+  İstanbul Bakırköy ilçesi YESILYURT mahallesi garantili hamam böceği ilaçlama
   ve dezenfeksiyon hizmeti. Sağlık Bakanlığı onaylı 7/24 hizmet.
 metadata:
-  title: Bakırköy YESILYURT-HAMAM Mahallesi BOCEGI İlaçlama | TCK İlaçlama
+  title: Bakırköy YESILYURT Mahallesi Hamam Böceği İlaçlama | TCK İlaçlama
   description: >-
-    İstanbul Bakırköy ilçesi YESILYURT-HAMAM mahallesi garantili bocegi ilaçlama
+    İstanbul Bakırköy ilçesi YESILYURT mahallesi garantili hamam böceği ilaçlama
     ve dezenfeksiyon hizmeti. Sağlık Bakanlığı onaylı 7/24 hizmet.
   keywords:
-    - Bakırköy yesilyurt-hamam ilaclama
-    - yesilyurt-hamam dezenfeksiyon
-    - en yakin bocegi ilaclama firmasi
+    - Bakırköy yesilyurt ilaclama
+    - yesilyurt dezenfeksiyon
+    - en yakin hamam böceği ilaclama firmasi
 ---
 Bakırköy ilçesinin seçkin bölgelerinden biri olan **Yeşilyurt Mahallesi** genelinde, profesyonel [Hamam Böceği ilaçlama](https://www.tckilaclama.com/hizmet/istanbul-bakirkoy-bocek-ilaclama) ve dezenfeksiyon çözümleri sunuyoruz. Yaşam alanlarınızı tehdit eden haşerelere karşı Sağlık Bakanlığı onaylı ve çevre dostu ürünlerle 7/24 yanınızdayız.
 
