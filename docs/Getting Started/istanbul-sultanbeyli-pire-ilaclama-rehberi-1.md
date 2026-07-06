@@ -6,6 +6,7 @@ excerpt: >-
   İstanbul Sultanbeyli bölgesinde profesyonel dezenfeksiyon ve pire ilaçlama
   hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
   kadroyla 7/24 hizmetinizdeyiz.
+icon: 🕷️
 metadata:
   title: İstanbul Sultanbeyli Pire İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
