@@ -2,6 +2,10 @@
 title: >-
   İstanbul Çatalca Bölgesinde Garantili Tahtakurusu İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Çatalca bölgesinde profesyonel dezenfeksiyon ve tahtakurusu ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Çatalca Tahtakurusu İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
