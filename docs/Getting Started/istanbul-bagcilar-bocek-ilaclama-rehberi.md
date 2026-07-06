@@ -2,6 +2,10 @@
 title: >-
   İstanbul Bağcılar Bölgesinde Garantili Böcek İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Bağcılar bölgesinde profesyonel dezenfeksiyon ve böcek ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Bağcılar Böcek İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
