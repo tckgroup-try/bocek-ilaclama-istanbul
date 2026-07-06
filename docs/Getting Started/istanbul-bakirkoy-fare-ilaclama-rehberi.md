@@ -1,5 +1,6 @@
 ---
 title: İstanbul Bakırköy Bölgesinde Garantili Fare İlaçlama Hizmetleri Nasıl Yapılır?
+icon: 😀
 ---
 ![Bakırköy İlaçlama Hizmetleri](https://www.tckilaclama.com/images/tck_fare_uzman.png)
 
