@@ -40,7 +40,7 @@ metadata:
  Bakırköy ilçesindeki tarihi binalar, apartmanlar ve restoranlar gibi hassas alanlarda çevre dostu, evcil hayvan dostu ve kokusuz ilaçlama çözümleri uygulamak kritik önem taşır. [TCK İlaçlama Bakırköy Şubesi](https://www.tckilaclama.com/subelerimiz) ekipleri, bölgeyi ve lokal haşere davranışlarını çok iyi tanıyan uzman kadrosuyla 7/24 hizmet vermektedir.
 
  ### Sertifikalarımız ve Kalite Belgelerimiz
- Uygulamalarımızda dünya standartlarında kalite ve hijyen kurallarına uygun olarak hareket ediyoruz. ISO, TSE ve dezenfeksiyon sertifikalı hizmet sunmaktaymaktadır.
+ Uygulamalarımızda dünya standartlarında kalite ve hijyen kurallarına uygun olarak hareket ediyoruz. ISO, TSE ve dezenfeksiyon sertifikalı hizmet sunmaktayız.
 
  <div style="display: flex; gap: 15px; justify-content: center; margin: 25px 0; flex-wrap: wrap;">
   <div style="border: 2px solid #0f172a; padding: 10px 15px; border-radius: 8px; font-weight: bold; color: #0f172a; font-size: 14px; text-align: center; background: #f8fafc;">🎖️ ISO 9001:2015</div>
@@ -76,7 +76,7 @@ metadata:
  <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin: 25px 0; text-align: center;">
   <p style="font-weight: bold; margin-top: 0; color: #0f172a; font-size: 16px;">📍 Diğer Hizmet Noktalarımız:</p>
   <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
-    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-uskudar-tahtakurusu-ilaclama-rehberi" style="background: #ffffff; border: 1px solid #e2e8f0; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #0284c7; text-decoration: none; font-weight: 500; display: inline-block;">📍 Üsküdar Tahtakurusu İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-uskudar-tahtakurusu-ilaclama-rehberi-1" style="background: #ffffff; border: 1px solid #e2e8f0; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #0284c7; text-decoration: none; font-weight: 500; display: inline-block;">📍 Üsküdar Tahtakurusu İlaçlama</a>
     <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-umraniye-akrep-ilaclama-rehberi" style="background: #ffffff; border: 1px solid #e2e8f0; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #0284c7; text-decoration: none; font-weight: 500; display: inline-block;">📍 Ümraniye Akrep İlaçlama</a>
     <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-fatih-kene-ilaclama-rehberi" style="background: #ffffff; border: 1px solid #e2e8f0; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #0284c7; text-decoration: none; font-weight: 500; display: inline-block;">📍 Fatih Kene İlaçlama</a>
     <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-beyoglu-bocek-ilaclama-rehberi" style="background: #ffffff; border: 1px solid #e2e8f0; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #0284c7; text-decoration: none; font-weight: 500; display: inline-block;">📍 Beyoğlu Böcek İlaçlama</a>
