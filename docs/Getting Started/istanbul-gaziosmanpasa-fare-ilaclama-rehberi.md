@@ -2,6 +2,10 @@
 title: >-
   İstanbul Gaziosmanpaşa Bölgesinde Garantili Fare İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Gaziosmanpaşa bölgesinde profesyonel dezenfeksiyon ve fare ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Gaziosmanpaşa Fare İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
