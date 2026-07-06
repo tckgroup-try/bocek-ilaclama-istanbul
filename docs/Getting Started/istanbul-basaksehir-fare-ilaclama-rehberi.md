@@ -2,6 +2,10 @@
 title: >-
   İstanbul Başakşehir Bölgesinde Garantili Fare İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Başakşehir bölgesinde profesyonel dezenfeksiyon ve fare ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Başakşehir Fare İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
