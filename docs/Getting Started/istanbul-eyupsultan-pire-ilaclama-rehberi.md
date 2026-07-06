@@ -2,6 +2,10 @@
 title: >-
   İstanbul Eyüpsultan Bölgesinde Garantili Pire İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Eyüpsultan bölgesinde profesyonel dezenfeksiyon ve pire ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Eyüpsultan Pire İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
