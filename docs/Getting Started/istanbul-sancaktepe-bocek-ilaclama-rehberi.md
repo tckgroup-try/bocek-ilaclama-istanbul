@@ -40,7 +40,7 @@ metadata:
  Sancaktepe ilçesindeki tarihi binalar, apartmanlar ve restoranlar gibi hassas alanlarda çevre dostu, evcil hayvan dostu ve kokusuz ilaçlama çözümleri uygulamak kritik önem taşır. [TCK İlaçlama Sancaktepe Şubesi](https://www.tckilaclama.com/subelerimiz) ekipleri, bölgeyi ve lokal haşere davranışlarını çok iyi tanıyan uzman kadrosuyla 7/24 hizmet vermektedir.
 
  ### Sertifikalarımız ve Kalite Belgelerimiz
- Uygulamalarımızda dünya standartlarında kalite ve hijyen kurallarına uygun olarak hareket ediyoruz. ISO, TSE ve dezenfeksiyon sertifikalı hizmet sunmaktaymaktadır.
+ Uygulamalarımızda dünya standartlarında kalite ve hijyen kurallarına uygun olarak hareket ediyoruz. ISO, TSE ve dezenfeksiyon sertifikalı hizmet sunmaktayız.
 
  <div style="display: flex; gap: 15px; justify-content: center; margin: 25px 0; flex-wrap: wrap;">
   <div style="border: 2px solid #0f172a; padding: 10px 15px; border-radius: 8px; font-weight: bold; color: #0f172a; font-size: 14px; text-align: center; background: #f8fafc;">🎖️ ISO 9001:2015</div>
