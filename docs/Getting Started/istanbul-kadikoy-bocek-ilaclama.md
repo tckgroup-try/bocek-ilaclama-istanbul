@@ -15,7 +15,7 @@ metadata:
     - Kadıköy dezenfeksiyon
     - en yakin böcek ilaclama firmasi
 ---
-![Kadıköy Böcek İlaçlama Hizmetleri](https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80)
+![Kadıköy Böcek İlaçlama Hizmetleri](https://www.tckilaclama.com/images/istanbul-ev-bocek-ilaclama-hizmeti.png)
 
 İstanbul'un en yoğun yerleşim yerlerinden biri olan **Kadıköy**, nemli yapısı ve mimari dokusu nedeniyle haşere problemlerinin sıkça yaşandığı bölgelerden biridir. Özellikle yaz aylarında artış gösteren **böcek** sorunu, hem ev hem de iş yerlerinde konforu ve sağlığı ciddi şekilde tehdit etmektedir. Bu yazımızda, Kadıköy bölgesinde profesyonel haşere kontrolü ve [Kadıköy böcek ilaçlama](https://www.tckilaclama.com/hizmet/istanbul-kadikoy-bocek-ilaclama) hizmetlerinin nasıl yapıldığını detaylandırıyoruz.
 
