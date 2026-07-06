@@ -17,7 +17,7 @@ metadata:
     - Üsküdar dezenfeksiyon
     - en yakin tahtakurusu ilaclama firmasi
 ---
-![Üsküdar Tahtakurusu İlaçlama Hizmetleri](https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1200&q=80)
+![Üsküdar Tahtakurusu İlaçlama Hizmetleri](https://www.tckilaclama.com/images/istanbul-ev-bocek-ilaclama-hizmeti.png)
 
 İstanbul'un en yoğun yerleşim yerlerinden biri olan **Üsküdar**, nemli yapısı ve mimari dokusu nedeniyle haşere problemlerinin sıkça yaşandığı bölgelerden biridir. Özellikle yaz aylarında artış gösteren **tahtakurusu** sorunu, hem ev hem de iş yerlerinde konforu ve sağlığı ciddi şekilde tehdit etmektedir. Bu yazımızda, Üsküdar bölgesinde profesyonel haşere kontrolü ve [Üsküdar tahtakurusu ilaçlama](https://www.tckilaclama.com/hizmet/istanbul-uskudar-tahtakurusu-ilaclama) hizmetlerinin nasıl yapıldığını detaylandırıyoruz.
 
