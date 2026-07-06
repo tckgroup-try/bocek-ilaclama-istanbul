@@ -2,6 +2,10 @@
 title: >-
   İstanbul Beylikdüzü Bölgesinde Garantili Pire İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Beylikdüzü bölgesinde profesyonel dezenfeksiyon ve pire ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Beylikdüzü Pire İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
