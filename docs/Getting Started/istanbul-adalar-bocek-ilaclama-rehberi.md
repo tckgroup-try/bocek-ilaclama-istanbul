@@ -1,5 +1,9 @@
 ---
 title: İstanbul Adalar Bölgesinde Garantili Böcek İlaçlama Hizmetleri Nasıl Yapılır?
+excerpt: >-
+  İstanbul Adalar bölgesinde profesyonel dezenfeksiyon ve böcek ilaçlama
+  hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
+  kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Adalar Böcek İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
