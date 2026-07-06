@@ -4,6 +4,7 @@ excerpt: >-
   İstanbul Esenler bölgesinde profesyonel dezenfeksiyon ve akrep ilaçlama
   hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
   kadroyla 7/24 hizmetinizdeyiz.
+icon: 🕷️
 metadata:
   title: İstanbul Esenler Akrep İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
