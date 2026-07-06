@@ -4,6 +4,7 @@ excerpt: >-
   İstanbul Silivri bölgesinde profesyonel dezenfeksiyon ve fare ilaçlama
   hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
   kadroyla 7/24 hizmetinizdeyiz.
+icon: 🕷️
 metadata:
   title: İstanbul Silivri Fare İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
