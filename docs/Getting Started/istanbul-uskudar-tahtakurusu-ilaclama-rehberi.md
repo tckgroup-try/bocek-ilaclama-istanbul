@@ -2,10 +2,20 @@
 title: >-
   İstanbul Üsküdar Bölgesinde Garantili Tahtakurusu İlaçlama Hizmetleri Nasıl
   Yapılır?
+metadata:
+  title: İstanbul Üsküdar Tahtakurusu İlaçlama | %100 Garantili TCK İlaçlama
+  description: >-
+    İstanbul Üsküdar bölgesinde profesyonel dezenfeksiyon ve tahtakurusu
+    ilaçlama hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli
+    uzman kadroyla 7/24 hizmetinizdeyiz.
+  keywords:
+    - Üsküdar tahtakurusu ilaclama
+    - Üsküdar dezenfeksiyon
+    - en yakin tahtakurusu ilaclama firmasi
 ---
-![Üsküdar İlaçlama Hizmetleri](https://www.tckilaclama.com/images/blog_spray.png)
+![Üsküdar İlaçlama Hizmetleri](https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=1200&q=80)
 
-İstanbul'un en yoğun ilçelerinden biri olan **Üsküdar**, nemli yapısı ve mimari dokusu nedeniyle haşere problemlerinin sıkça yaşandığı bölgelerden biridir. Özellikle yaz aylarında artış gösteren **tahtakurusu** sorunu, hem ev hem de iş yerlerinde konforu ve sağlığı ciddi şekilde tehdit etmektedir. Bu yazımızda, Üsküdar bölgesinde profesyonel haşere kontrolü ve [Üsküdar tahtakurusu ilaçlama](https://www.tckilaclama.com/hizmet/istanbul-uskudar-tahtakurusu-ilaclama) hizmetlerinin nasıl yapıldığını detaylandırıyoruz.
+İstanbul'un en yoğun bölgelerinden biri olan **Üsküdar**, nemli yapısı ve mimari dokusu nedeniyle haşere problemlerinin sıkça yaşandığı bölgelerden biridir. Özellikle yaz aylarında artış gösteren **tahtakurusu** sorunu, hem ev hem de iş yerlerinde konforu ve sağlığı ciddi şekilde tehdit etmektedir. Bu yazımızda, Üsküdar bölgesinde profesyonel haşere kontrolü ve [Üsküdar tahtakurusu ilaçlama](https://www.tckilaclama.com/hizmet/istanbul-uskudar-tahtakurusu-ilaclama) hizmetlerinin nasıl yapıldığını detaylandırıyoruz.
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin: 25px 0; text-align: center; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
   <h3 style="margin-top: 0; color: #0f172a; font-size: 18px;">📞 7/24 Kesintisiz İletişim &amp; WhatsApp Destek Hattı</h3>
@@ -18,11 +28,11 @@ title: >-
 
 ## Neden Profesyonel İlaçlama Tercih Edilmelidir?
 
-Kişisel yöntemlerle (marketten alınan sprey ve toz ilaçlar) yapılan müdahaleler, haşere popülasyonunu tamamen bitirmediği gibi onların kimyasallara karşı bağışıklık kazanmasına neden olur. Profesyonel [böcek ilaçlama firmaları](https://www.tckilaclama.com), haşerenin biyolojik yapısına uygun Sağlık Bakanlığı onaylı biyosidal ürünler kullanır.
+Kişisel yöntemlerle (marketten alınan sprey ve toz ilaçlar) yapılan müdahaleler, haşere popülasyonunu tamamen bitirmediği gibi onların kimyasallara karşı bağışıklık kazanmasına neden olur. Profesyonel [böcek ilaçlama firmaları](https://www.tckilaclama.com), haşerenin biyolojik yapısına uygun Sağlık Bakanlığı onaylı dezenfeksiyon ve biyosidal ürünler kullanır.
 
 ### Profesyonel Sürecin Aşamaları:
 1. **Keşif ve Teşhis:** Hangi haşere türüyle karşı karşıya olunduğu ve yuvalanma alanları tespit edilir.
-2. **Doğru Formülasyon:** Kokusuz jel, kokulu sıvı veya rezidüel püskürtme yöntemlerinden en uygun olanı seçilir.
+2. **Doğru Formülasyon:** Kokusuz jel, kokulu sıvı veya dezenfeksiyon püskürtme yöntemlerinden en uygun olanı seçilir.
 3. **Uygulama ve Koruma Kalkanı:** İlaçlama sonrası haşerelerin alana tekrar girmesini önleyecek bariyer uygulamaları yapılır.
 
 ## Üsküdar Bölgesine Özel İlaçlama Çözümleri
@@ -30,20 +40,33 @@ Kişisel yöntemlerle (marketten alınan sprey ve toz ilaçlar) yapılan müdaha
 Üsküdar ilçesindeki tarihi binalar, apartmanlar ve restoranlar gibi hassas alanlarda çevre dostu, evcil hayvan dostu ve kokusuz ilaçlama çözümleri uygulamak kritik önem taşır. [TCK İlaçlama Üsküdar Şubesi](https://www.tckilaclama.com/subelerimiz) ekipleri, bölgeyi ve lokal haşere davranışlarını çok iyi tanıyan uzman kadrosuyla 7/24 hizmet vermektedir.
 
 ### Sertifikalarımız ve Kalite Belgelerimiz
-Uygulamalarımızda dünya standartlarında kalite ve hijyen kurallarına uygun olarak hareket ediyoruz. ISO, TSE ve HACCP sertifikalı hizmet sunmaktayız.
+Uygulamalarımızda dünya standartlarında kalite ve hijyen kurallarına uygun olarak hareket ediyoruz. ISO, TSE ve dezenfeksiyon sertifikalı hizmet sunmaktayız.
 
-<div style="display: flex; gap: 15px; justify-content: center; margin: 25px 0; flex-wrap: wrap; background: #fff; padding: 15px; border-radius: 8px; border: 1px solid #f1f5f9;">
-  <img src="https://www.tckilaclama.com/images/badge_iso.png" alt="ISO" style="height: 60px;" />
-  <img src="https://www.tckilaclama.com/images/badge_tse.png" alt="TSE" style="height: 60px;" />
-  <img src="https://www.tckilaclama.com/images/badge_haccp.png" alt="HACCP" style="height: 60px;" />
-  <img src="https://www.tckilaclama.com/images/badge_gmp.png" alt="GMP" style="height: 60px;" />
+<div style="display: flex; gap: 15px; justify-content: center; margin: 25px 0; flex-wrap: wrap;">
+  <div style="border: 2px solid #0f172a; padding: 10px 15px; border-radius: 8px; font-weight: bold; color: #0f172a; font-size: 14px; text-align: center; background: #f8fafc;">🎖️ ISO 9001:2015</div>
+  <div style="border: 2px solid #0f172a; padding: 10px 15px; border-radius: 8px; font-weight: bold; color: #0f172a; font-size: 14px; text-align: center; background: #f8fafc;">🛡️ TSE SERTİFİKALI</div>
+  <div style="border: 2px solid #0f172a; padding: 10px 15px; border-radius: 8px; font-weight: bold; color: #0f172a; font-size: 14px; text-align: center; background: #f8fafc;">🔬 HACCP UYUMLU</div>
+  <div style="border: 2px solid #0f172a; padding: 10px 15px; border-radius: 8px; font-weight: bold; color: #0f172a; font-size: 14px; text-align: center; background: #f8fafc;">🌿 GMP ONAYLI</div>
 </div>
+
+## 📍 Üsküdar Mahalleleri Hizmet Kapsamı
+Üsküdar genelinde hizmet verdiğimiz mahalle listesi aşağıdadır:
+
+* **Beylerbeyi Mahallesi** Tahtakurusu İlaçlama Hizmeti
+* **Çengelköy Mahallesi** Tahtakurusu İlaçlama Hizmeti
+* **Kuzguncuk Mahallesi** Tahtakurusu İlaçlama Hizmeti
+* **Altunizade Mahallesi** Tahtakurusu İlaçlama Hizmeti
+* **Ünalan Mahallesi** Tahtakurusu İlaçlama Hizmeti
+* **Acıbadem Mahallesi** Tahtakurusu İlaçlama Hizmeti
+* **Bulgurlu Mahallesi** Tahtakurusu İlaçlama Hizmeti
+* **Kandilli Mahallesi** Tahtakurusu İlaçlama Hizmeti
+* **Salacak Mahallesi** Tahtakurusu İlaçlama Hizmeti
 
 ### Hizmet Detayları ve İletişim:
 * **Firma Yetkilisi:** TCK İlaçlama
 * **Telefon:** [+90 501 635 50 53](tel:+905016355053)
 * **Web Sitesi:** [tckilaclama.com](https://www.tckilaclama.com)
-* **Hizmet Sayfası:** [İstanbul Üsküdar Böcek İlaçlama](https://www.tckilaclama.com/hizmet/istanbul-uskudar-bocek-ilaclama)
+* **Hizmet Sayfası:** [İstanbul Üsküdar İlaçlama](https://www.tckilaclama.com/hizmet/istanbul-uskudar-bocek-ilaclama)
 
 ### Yol Tarifi ve Konum Bilgisi:
 Aşağıdaki harita üzerinden Üsküdar bölgesindeki şubemize ulaşabilir, yol tarifi alabilirsiniz:
@@ -53,13 +76,47 @@ Aşağıdaki harita üzerinden Üsküdar bölgesindeki şubemize ulaşabilir, yo
 ## 🏷️ İstanbul Haşere İlaçlama Hizmet Bölgelerimiz
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin: 25px 0; text-align: center;">
-  <p style="font-weight: bold; margin-top: 0; color: #0f172a; font-size: 16px;">📍 Hızlı Geçiş - Diğer Hizmet Noktalarımız:</p>
-  <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
-    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-kadikoy-bocek-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 8px 16px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Kadıköy Böcek İlaçlama</a>
-    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-besiktas-pire-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 8px 16px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Beşiktaş Pire İlaçlama</a>
-    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-bakirkoy-fare-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 8px 16px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Bakırköy Fare İlaçlama</a>
-    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-sisli-hamam-bocegi-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 8px 16px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Şişli Hamam Böceği İlaçlama</a>
-    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-uskudar-tahtakurusu-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 8px 16px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Üsküdar Tahtakurusu İlaçlama</a>
+  <p style="font-weight: bold; margin-top: 0; color: #0f172a; font-size: 16px;">📍 Diğer Hizmet Noktalarımız:</p>
+  <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 15px;">
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-kadikoy-bocek-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Kadıköy Böcek İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-sisli-fare-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Şişli Fare İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-besiktas-pire-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Beşiktaş Pire İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-bakirkoy-hamam-bocegi-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Bakırköy Hamam Böceği İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-uskudar-tahtakurusu-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Üsküdar Tahtakurusu İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-umraniye-akrep-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Ümraniye Akrep İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-fatih-kene-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Fatih Kene İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-beyoglu-bocek-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Beyoğlu Böcek İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-sariyer-fare-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Sarıyer Fare İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-pendik-pire-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Pendik Pire İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-kartal-hamam-bocegi-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Kartal Hamam Böceği İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-maltepe-tahtakurusu-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Maltepe Tahtakurusu İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-atasehir-akrep-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Ataşehir Akrep İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-beykoz-kene-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Beykoz Kene İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-zeytinburnu-bocek-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Zeytinburnu Böcek İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-basaksehir-fare-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Başakşehir Fare İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-beylikduzu-pire-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Beylikdüzü Pire İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-esenyurt-hamam-bocegi-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Esenyurt Hamam Böceği İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-avcilar-tahtakurusu-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Avcılar Tahtakurusu İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-kucukcekmece-akrep-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Küçükçekmece Akrep İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-bahcelievler-kene-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Bahçelievler Kene İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-bagcilar-bocek-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Bağcılar Böcek İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-gaziosmanpasa-fare-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Gaziosmanpaşa Fare İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-eyupsultan-pire-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Eyüpsultan Pire İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-kagithane-hamam-bocegi-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Kağıthane Hamam Böceği İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-sile-tahtakurusu-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Şile Tahtakurusu İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-cekmekoy-akrep-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Çekmeköy Akrep İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-tuzla-kene-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Tuzla Kene İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-adalar-bocek-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Adalar Böcek İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-arnavutkoy-fare-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Arnavutköy Fare İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-bayrampasa-pire-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Bayrampaşa Pire İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-buyukcekmece-hamam-bocegi-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Büyükçekmece Hamam Böceği İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-catalca-tahtakurusu-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Çatalca Tahtakurusu İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-esenler-akrep-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Esenler Akrep İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-gungoren-kene-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Güngören Kene İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-sancaktepe-bocek-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Sancaktepe Böcek İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-silivri-fare-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Silivri Fare İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-sultanbeyli-pire-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Sultanbeyli Pire İlaçlama</a>
+    <a href="https://istanbul-bocek-ilaclama.readme.io/docs/istanbul-sultangazi-hamam-bocegi-ilaclama-rehberi" style="background: #fff; border: 1px solid #cbd5e1; padding: 6px 12px; border-radius: 20px; font-size: 13px; color: #475569; text-decoration: none; font-weight: 500; display: inline-block;">Sultangazi Hamam Böceği İlaçlama</a>
   </div>
 </div>
 
