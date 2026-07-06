@@ -2,6 +2,10 @@
 title: >-
   İstanbul Bakırköy Bölgesinde Garantili Hamam Böceği İlaçlama Hizmetleri Nasıl
   Yapılır?
+excerpt: >-
+  İstanbul Bakırköy bölgesinde profesyonel dezenfeksiyon ve hamam böceği
+  ilaçlama hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli
+  uzman kadroyla 7/24 hizmetinizdeyiz.
 metadata:
   title: İstanbul Bakırköy Hamam Böceği İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
