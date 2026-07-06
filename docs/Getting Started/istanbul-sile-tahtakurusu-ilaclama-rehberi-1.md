@@ -6,6 +6,7 @@ excerpt: >-
   İstanbul Şile bölgesinde profesyonel dezenfeksiyon ve tahtakurusu ilaçlama
   hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
   kadroyla 7/24 hizmetinizdeyiz.
+icon: 🕷️
 metadata:
   title: İstanbul Şile Tahtakurusu İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
