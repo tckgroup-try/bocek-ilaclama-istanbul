@@ -15,7 +15,7 @@ metadata:
     - Şişli dezenfeksiyon
     - en yakin fare ilaclama firmasi
 ---
-![Şişli Fare İlaçlama Hizmetleri](https://images.unsplash.com/photo-1473862170180-84429c611cef?auto=format&fit=crop&w=1200&q=80)
+![Şişli Fare İlaçlama Hizmetleri](https://www.tckilaclama.com/images/istanbul-ev-bocek-ilaclama-hizmeti.png)
 
 İstanbul'un en yoğun yerleşim yerlerinden biri olan **Şişli**, nemli yapısı ve mimari dokusu nedeniyle haşere problemlerinin sıkça yaşandığı bölgelerden biridir. Özellikle yaz aylarında artış gösteren **fare** sorunu, hem ev hem de iş yerlerinde konforu ve sağlığı ciddi şekilde tehdit etmektedir. Bu yazımızda, Şişli bölgesinde profesyonel haşere kontrolü ve [Şişli fare ilaçlama](https://www.tckilaclama.com/hizmet/istanbul-sisli-fare-ilaclama) hizmetlerinin nasıl yapıldığını detaylandırıyoruz.
 
