@@ -4,6 +4,7 @@ excerpt: >-
   İstanbul Kadıköy bölgesinde profesyonel dezenfeksiyon ve böcek ilaçlama
   hizmeti. Sağlık Bakanlığı onaylı biyosidal ilaçlar ve TSE belgeli uzman
   kadroyla 7/24 hizmetinizdeyiz.
+icon: 🕷️
 metadata:
   title: İstanbul Kadıköy Böcek İlaçlama | %100 Garantili TCK İlaçlama
   description: >-
